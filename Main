@@ -1,0 +1,93 @@
+# 🚀 Nisar AI Studio
+
+AI-powered SaaS tool to generate **viral short-form content** for TikTok, YouTube Shorts, and Instagram Reels.
+
+---
+
+## 🔥 What This Does
+
+Generate:
+- 5 Viral Hooks
+- 3 Content Ideas
+- 1 Full Script (30–60 sec)
+
+All in seconds using AI.
+
+---
+
+## 🎯 Target Users
+
+- Content Creators
+- Digital Marketers
+- AI Entrepreneurs
+- Beginners building online income
+
+---
+
+## ⚙️ Tech Stack
+
+- Frontend: HTML + Tailwind CSS
+- Backend: Vercel Serverless Functions
+- AI: OpenAI API
+
+---
+
+## 🚀 Features
+
+- Niche-based content generation
+- Multi-platform optimization
+- Tone customization (Storytelling, Aggressive, Educational)
+- Fast API-based generation
+
+---
+
+## 📦 Project Structure---
+
+## 🔑 Setup
+### 2. Install Vercel
+### 1. Clone Repo #https://github.com/rananisarsb51214-web/Open-ai# 2. Install Vercel### 3. Add OpenAI API Key###---
+
+## 🧪 Usage
+
+1. Open deployed URL  
+2. Enter niche, platform, tone  
+3. Click "Generate"  
+4. Get instant viral content  
+
+---
+
+## 💰 Monetization Plan
+
+- Free Plan: Limited generations/day
+- Pro Plan: Unlimited usage
+- Future: Subscription via Stripe
+
+---
+
+## 🧠 Roadmap
+
+- [ ] User Authentication (Firebase)
+- [ ] Stripe Integration
+- [ ] Save Content History
+- [ ] Multi-tool AI Dashboard
+
+---
+
+## ⚠️ Disclaimer
+
+This project uses OpenAI API. You must provide your own API key.
+
+---
+
+## 👤 Author
+
+**Muhammad Nisar**  
+AI Digital Creator & Automation Builder
+
+---
+
+## ⭐ Support
+
+If you find this useful, star the repo and share it. 4. DeployThis repo is not just code. It’s: → Your portfolio
+→ Your product proof
+→ Your lead generatorapi key settings update Auto replacement 
